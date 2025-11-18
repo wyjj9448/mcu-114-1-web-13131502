@@ -12,6 +12,10 @@ div.main {
   aside {
     width: 20%;
     flex-shrink: 0;
+
+    position: sticky;
+    top: 6rem;
+
     h3 {
       margin: 0;
       font-weight: 500;
